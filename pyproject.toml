@@ -1,6 +1,6 @@
 [project]
 name = "timezoneless-datetime-utils"
-version = "0.1.0"
+version = "0.1.1"
 description = "Timezone-naive datetime wrapper with a seconds-based Duration type"
 requires-python = ">=3.10"
 dependencies = []
